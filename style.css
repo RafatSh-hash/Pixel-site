@@ -1,0 +1,100 @@
+body {
+    background-image: url("images/Google-logo1.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Poppins', sans-serif;
+}
+
+.head {
+    font-size: 50px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+
+}
+
+p {
+    font-size: 18px;
+}
+
+section {
+    display: flex;
+}
+
+.half {
+    width: 100%;
+    margin: 10px;
+    padding: 10px;
+    text-align: justify;
+}
+
+.half img {
+    width: 100%;
+}
+
+.p7 {
+    border-left: 10px solid salmon;
+    border-radius: 7px;
+    padding-left: 7px;
+}
+
+.p6 {
+    border-right: 10px solid gray;
+    border-radius: 7px;
+    padding-right: 7px;
+}
+
+.p5 {
+    border-left: 10px solid rgb(94, 126, 46);
+    border-radius: 7px;
+    padding-left: 7px;
+}
+
+.p4 {
+    border-right: 10px solid rgb(86, 86, 236);
+    border-radius: 7px;
+    padding-right: 7px;
+}
+
+.checkout {
+    display: flex;
+    width: 100%;
+}
+
+.checkout a {
+    width: 100%;
+    border: 2px solid black;
+    text-align: center;
+    margin: 80px;
+    height: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    box-shadow: 8px 8px 5px black;
+
+
+
+}
+
+.pro7 {
+    background-color: salmon;
+    color: white;
+}
+
+.pro6 {
+    background-color: grey;
+    color: white;
+}
+
+.pixel-5 {
+    background-color: green;
+    color: white;
+}
+
+.pixel-4 {
+    background-color: blue;
+    color: white;
+}
