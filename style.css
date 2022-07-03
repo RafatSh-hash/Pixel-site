@@ -98,3 +98,15 @@ section {
     background-color: blue;
     color: white;
 }
+
+.footer {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+hr {
+    color: 2px black;
+}
