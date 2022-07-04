@@ -30,6 +30,7 @@ section {
     margin: 10px;
     padding: 10px;
     text-align: justify;
+
 }
 
 .half img {
@@ -40,24 +41,28 @@ section {
     border-left: 10px solid salmon;
     border-radius: 7px;
     padding-left: 7px;
+    box-shadow: 10px 10px 7px black;
 }
 
 .p6 {
     border-right: 10px solid gray;
     border-radius: 7px;
     padding-right: 7px;
+    box-shadow: 10px 10px 7px black;
 }
 
 .p5 {
     border-left: 10px solid rgb(94, 126, 46);
     border-radius: 7px;
     padding-left: 7px;
+    box-shadow: 10px 10px 7px black;
 }
 
 .p4 {
     border-right: 10px solid rgb(86, 86, 236);
     border-radius: 7px;
     padding-right: 7px;
+    box-shadow: 10px 10px 7px black;
 }
 
 .checkout {
